@@ -10,17 +10,23 @@
 使用 visual studio asp.net 與資料庫連接，進而製作此網站之所有功能
 <ul>
   <li>首頁：具直覺性操作，可一次查看所有第 90 屆至第 92 屆獲奧斯卡獎之電影清單， 底部也具搜尋、評論與登入並製作個人清單之連結
-    ![image](https://github.com/angieyao/movielist/blob/main/md_pic/index.jpg)
+    <img src="https://github.com/angieyao/movielist/blob/main/md_pic/index.jpg" width="680" height="400"/><br/>
   <li>得獎年份：點入電影清單後可查看所有電影，底部也有頁碼，避免一次顯示過多項目
+    <img src="https://github.com/angieyao/movielist/blob/main/md_pic/allmovies.jpg" width="680" height="400"/><br/>
   <li>SEARCH
     <ul>
     <li>可透過名稱、類型、國家或是年份以進行搜尋
+      <img src="https://github.com/angieyao/movielist/blob/main/md_pic/search_1.jpg" width="680" height="400"/><br/>
     <li>搜尋結果：名稱可透過關鍵字搜尋，類型、國家及年份點選後會將結果直接呈現在下方表格，不須重新整理頁面
+      <img src="https://github.com/angieyao/movielist/blob/main/md_pic/search_2.jpg" width="680" height="400"/><br/>
     </ul>
   <li>REVIEWS：輸入Id及Name後，利用列表選擇電影，進而撰寫評價
+    <img src="https://github.com/angieyao/movielist/blob/main/md_pic/reviews.jpg" width="680" height="400"/><br/>
   <li>LOG IN & MAKE MY LIST
     <ul>
-    <li>可選擇註冊或是登入
+    <li>可選擇註冊或是登入</li>
+      <img src="https://github.com/angieyao/movielist/blob/main/md_pic/login_makemylist.jpg" width="640" height="400"/><br/>
     <li>登入後可製作個人清單，並將清單直接顯示在下方表格
+      <img src="https://github.com/angieyao/movielist/blob/main/md_pic/mylist.jpg" width="680" height="400"/><br/>
     </ul>
 </ul>
