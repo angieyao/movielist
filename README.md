@@ -17,7 +17,7 @@
     <ul>
     <li>可透過名稱、類型、國家或是年份以進行搜尋
       <img src="https://github.com/angieyao/movielist/blob/main/md_pic/search_1.jpg" width="680" height="400"/><br/>
-    <li>搜尋結果：名稱可透過關鍵字搜尋，類型、國家及年份點選後會將結果直接呈現在下方表格，不須重新整理頁面
+    <li>搜尋結果：名稱可透過關鍵字搜尋，類型、國家及年份點選後會將結果直接呈現在下方表格，不須重新整理頁面</li>
       <img src="https://github.com/angieyao/movielist/blob/main/md_pic/search_2.jpg" width="680" height="400"/><br/>
     </ul>
   <li>REVIEWS：輸入Id及Name後，利用列表選擇電影，進而撰寫評價
