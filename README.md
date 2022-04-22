@@ -10,6 +10,7 @@
 使用 visual studio asp.net 與資料庫連接，進而製作此網站之所有功能
 <ul>
   <li>首頁：具直覺性操作，可一次查看所有第 90 屆至第 92 屆獲奧斯卡獎之電影清單， 底部也具搜尋、評論與登入並製作個人清單之連結
+    ![image](https://github.com/angieyao/movielist/blob/main/md_pic/index.jpg)
   <li>得獎年份：點入電影清單後可查看所有電影，底部也有頁碼，避免一次顯示過多項目
   <li>SEARCH
     <ul>
